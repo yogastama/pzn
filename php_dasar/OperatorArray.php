@@ -29,6 +29,7 @@ var_dump($a == $b);
 var_dump($a === $b);
 
 // operator ineuqality != 
+// cek apakah datanya beda
 var_dump($a != $b);
 
 // operator nonidentity !==
